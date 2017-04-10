@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/MasterCSS.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="why" -->
+<h1 id="banner">Training Zone</h1>
+<div id="nav"><table width="608" height="55" border="5">
+  <tbody>
+    <tr>
+      <td><a href="../index.html">Home</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<p id="content">insert some content here</p>
+<p id="footer">Copyright 2017</p>
+<!-- TemplateEndEditable -->
+</body>
+</html>
+
